@@ -2,3 +2,26 @@
 6Tareget Small : 1141
 Pasu 6 Target : 95.2
 Ascnded V3 : 10800
+
+
+DPI: 400/1000Hz
+XD3V2(3370)
+
+Mouse Sens:
+    Valorant 
+        0.6/0.52
+        ADS: 0.81
+
+    CS:GO
+        1.91/1.9/2.1/2.8
+        ADS:1
+
+
+
+1.땅보고 다니기 X -HeadLine 잘 보고 조준할 것
+2.스파이크 소리 구분/ 설 시간 절반 지나면 뛰어야 함
+3.나올 각에 조준(면 조준X)
+4.작은곳 부터 조준 - 다수 견제 상황에서 조정하기
+5.Aangle Adventage 잘 이용하기
+
+
