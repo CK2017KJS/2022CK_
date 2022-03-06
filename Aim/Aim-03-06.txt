@@ -3,9 +3,8 @@
 Pasu 6 Target : 95.2
 Ascnded V3 : 10800
 
-
 DPI: 400/1000Hz
-XD3V2(3370)
+XD3V2(3370)/지슈라/HATI-S(주문중)
 
 Mouse Sens:
     Valorant 
@@ -23,5 +22,12 @@ Mouse Sens:
 3.나올 각에 조준(면 조준X)
 4.작은곳 부터 조준 - 다수 견제 상황에서 조정하기
 5.Aangle Adventage 잘 이용하기
+
+
+
+
+
+
+
 
 
