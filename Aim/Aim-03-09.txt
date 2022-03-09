@@ -1,0 +1,33 @@
+#한글깨짐방지
+
+Mouse :             XD3V2
+DPI :               400
+PollingRate:        1000Hz
+MousePad:           Gigantus V2
+ELMB    : OFF
+
+
+
+Tamas Flick InterMediate
+
+Wide Wall 6Terget - Max 130
+
+114.1
+
+Kindaclose Mid Strafe -Max 12780
+7758
+9468
+
+1W6tS Top-1140
+970
+931
+1010
+970
+
+
+1.여전히 땅 보고다니는거 개선 안 됨
+2.일단 인포를 따면 플랭 기준 거의 다 1:1 상황에선 이김
+3.스트레스 상황에 취약함(스트레스 관리 필수-)
+4.수비때 사망원인 1순위: 트레이드 당하기->욕심 부리지 말 것
+5.공격때 사망원인 1순위: 앵글 생각 안하고 엔트리보다 먼저 진입 or 엔트리 뒤에서
+같은 각 쓰다가 같이 사망
