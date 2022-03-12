@@ -25,6 +25,7 @@ namespace MyNetWork
         }  
     }
 
+    //TCP와 UDP클라이언트는 각각 다른 Clint자료형이므로 분리됩니다.
     public class MyTCPClient:NetWorkBaseSocket
     {
         public TcpClient  m_TcpClient;

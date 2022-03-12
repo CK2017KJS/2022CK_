@@ -46,11 +46,13 @@ class CTCPServer
                 Console.Write("Handling Client.. ");
 
                 int totalByted = 0;
+                //NetStream에서 읽어옵니다.
                 while((bytsRecvd = MynetStream.Read(rcvBuffer,0,rcvBuffer.Length))>0)
                 {
                     MynetStream.Write(rcvBuffer,0,bytsRecvd);
                     totalByted += bytsRecvd;
                 }
+                    //Echo한 바이트 수 표시
                 Console.Write("Echo {0} bytes",totalByted);
 
 

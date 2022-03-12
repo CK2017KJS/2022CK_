@@ -13,7 +13,7 @@ class CUdpEchoSever:MyNetWork.MyUDPClient
         this.m_UDPClient=null;
     }
 
-    public bool Init()
+    public bool Init()//Init() 초기화 실행후에 Error이 발생히면 False를 반환합니다.
     {
         try
         {

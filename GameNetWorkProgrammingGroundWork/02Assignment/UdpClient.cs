@@ -29,6 +29,7 @@ class CUdpEchoClient:MyNetWork.MyUDPClient
             Console.WriteLine("Sent {0} bytes to the server...", SendPacket.Length);
 
             IPEndPoint EndPoint = new IPEndPoint(IPAddress.Any,0);
+            //모든 IP에서 수신을 대기하게 만듭니다.
             byte[] rcvPacket = m_UDPClient.Receive(ref EndPoint);
             
             Console.WriteLine("Received {0} bytes from {1}: {2}", 
