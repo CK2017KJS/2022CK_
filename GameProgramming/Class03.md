@@ -60,4 +60,72 @@
         ```
 
         생각보다 많은 경우의 속성자가 많다. 집가서 한번 복습해볼 것 ,,,
+
+
+
+
+- Generic
+
+    C++의 템플릿과 유사하며, 클래스나 메소드에서 <T\> 연산자를 사용하여 나타낸다.
+    런타임(시작 후)에 특정한 현식으로 대체될 때 까지 Generic을 유지한다.
+    동일한 형태로 인수만 다른 형태일 경우 오버로딩을 통하여 구현..
+    -이 경우, 제너릭을 통한 데이터 형식을 일반화해서 코드를 간소화한다 .
         
+    ```cs
+    static T sum<T>(T Val1,T Val2){
+        return Val1+Val2;
+        }
+        //컴파일 에러로 개같이 멸망
+    ```
+
+    개같이 멸망하는 원인-
+
+    키워드 <T\>가 정확히 무슨 자료형을 나타내는지 알 수 없으므로 ..
+
+    ```cs
+    static T sum<T>(T Val1,T Val2){
+        dynamic data =Val1;
+        dynamic data2= Val2;
+        //Dynamic 은 컴파일시 처리하지 않다가, 헌타임 시에서 처리.
+        return Val1+Val2;
+        }
+        
+    ```
+
+
+    -C# Generic Class처리
+
+    ```cs
+
+    class CommonData<T>
+    {
+        private T[] dataArray;
+        private T _subValue;
+
+        public T subValue{get;set;}
+
+        //Generic 을 사용하더라도 Property속성은 사용 가능하다.
+    }
+
+    ```
+
+
+
+
+
+
+
+
+- C# Collection 
+
+    C++ 에서의 STL에 대응되는 자료구조 정의?
+
+    * Array,List
+    * ArrayList
+    * Stack
+    * Queue
+    * Dictionary
+    
+    >단순 Array를 제외하고는 모두 Generic을 이용하여 만들어진다.
+    
+
