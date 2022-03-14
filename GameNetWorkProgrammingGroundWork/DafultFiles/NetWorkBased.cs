@@ -39,6 +39,7 @@ namespace NetWorkSocket
         {
             m_Listener = new TcpListener(m_iPort);
             m_Listener.Start();
+            return true;
         }
 
 
@@ -60,6 +61,7 @@ namespace NetWorkSocket
             this.data = new byte[1024];
             this.m_TcpClient = new TcpClient(m_strSeverIp,m_iPort);
             this.m_MyStream = m_TcpClient.GetStream();
+            return true;
         }
         public string ReadMessage()
         {
