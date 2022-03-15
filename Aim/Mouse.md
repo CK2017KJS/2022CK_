@@ -26,6 +26,15 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
     이하 마우스는 전부 3370/Hero 센서 이상 탑재
 
 
+#
+<h2>HATI-S ACE</h2>
+
+        Weight:~60g
+            바미니 무선 나오기 전까지 선택지 없음 ㅅㄱ 
+            주력마우스
+
+
+#
     M4
         Weight:74g
         right handed

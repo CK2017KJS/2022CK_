@@ -2,10 +2,13 @@ using System;
 using System.Net;
 using System.Net.Sockets;
 using System.Text;
-using NetWorkSocket;
+using MySocket;
 
-namespace TCPClients:NetWorkBaseSocket.
+namespace TcpClient
 {
-    
+    public class TcpClient: MySocket.TCP.Client
+    {
+        
+    }
 
 }
