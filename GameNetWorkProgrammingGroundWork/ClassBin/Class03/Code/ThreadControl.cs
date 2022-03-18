@@ -83,12 +83,6 @@ namespace ThreadControl
 
     }
 
-    public class MointerAndLock
-    {
-
-        
-
-    }
 
 
 }
