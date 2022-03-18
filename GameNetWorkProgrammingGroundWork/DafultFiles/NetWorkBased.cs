@@ -3,11 +3,9 @@ using System.Text;
 using System.IO;
 using System.Net.Sockets;
 using System.Net;
-
-
 namespace MyBasedSocket//Base Program Socket
 {
-        public class BasedSocket
+    public class BasedSocket
     {
         public const int BUFFER_SIZE = 1024;
         public string ip;
@@ -126,7 +124,7 @@ namespace MyBasedSocket//Base Program Socket
             }
 
             public virtual bool Connect()   //Connect -return True
-                                    //Cannot Connect. Return False
+                                            //Cannot Connect. Return False
             {
 
                 CS = new Socket(AddressFamily.InterNetwork,
@@ -140,6 +138,7 @@ namespace MyBasedSocket//Base Program Socket
             {
                 data = new byte[BUFFER_SIZE];
                 recv = CS.ReceiveFrom(data, ref EP);
+
             }
 
 
@@ -152,11 +151,10 @@ namespace MyBasedSocket//Base Program Socket
             public override bool Connect()
             {
                 base.Connect();
-                CS.Bind(EP);
                 Console.WriteLine("UDP Sever On ");
                 return true;
 
             }
         }
     }
-}    
+}

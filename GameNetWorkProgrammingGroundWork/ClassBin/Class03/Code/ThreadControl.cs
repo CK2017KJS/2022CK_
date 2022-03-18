@@ -83,6 +83,70 @@ namespace ThreadControl
 
     }
 
+    
 
+    public class ThreadMoniterControl
+    {
+        public int Number;
+        public void Run()
+        {
+            Number =0;
+            Thread t1 = new Thread(ThreadFunc);
+            Thread t2 = new Thread(ThreadFunc);
+
+            t1.Start(this);
+            t2.Start(this);
+
+            t1.Join();
+            t2.Join();
+            Console.WriteLine(Number);
+        }
+        private void ThreadFunc(Object inst)
+        {
+            ThreadMoniterControl  Tc = inst as ThreadMoniterControl;
+            for(int i=0; i<10000;i++)
+            {
+                Monitor.Enter(Tc);
+                try
+                {
+                    Tc.Number = Tc.Number +1;
+
+                }
+                finally{
+                    Monitor.Exit(Tc);
+                }
+            }
+
+        }
+    }
+    public class ThreadLockControl
+    {
+        public int Number;
+        public void Run()
+        {
+            Number =0;
+            Thread t1 = new Thread(ThreadFunc);
+            Thread t2 = new Thread(ThreadFunc);
+
+            t1.Start(this);
+            t2.Start(this);
+
+            t1.Join();
+            t2.Join();
+            Console.WriteLine(Number);
+        }
+        private async void ThreadFunc(Object inst)
+        {
+            ThreadLockControl  Tc = inst as ThreadLockControl;
+            for(int i=0; i<10000;i++)
+            {
+                lock(Tc)
+                {
+                    Tc.Number = Tc.Number +1;
+                }
+            }
+
+        }
+    }
 
 }

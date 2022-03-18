@@ -40,7 +40,7 @@ namespace MyTcp
         public class WithThread : MyBasedSocket.TCP.Sever
         {
 
-            void Run()
+            public void Run()
             {
                 while (true)
                 {
@@ -56,9 +56,10 @@ namespace MyTcp
                     newThrad.Start();
                 }
 
-                
+
             }
         }
     }
 
 }
+
