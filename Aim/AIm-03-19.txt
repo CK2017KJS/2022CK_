@@ -1,0 +1,55 @@
+
+6Tareget Small : 1141
+Pasu 6 Target : 95.2
+Ascnded V3 : 10800
+
+DPI: 400/1000Hz
+XD3V2(3370)/지슈라/HATI-S(주문중)
+
+Mouse Sens:
+    Valorant 
+        0.72
+        ADS: 0.81
+
+
+5x - 5 Sphere Hipfire Extra Small
+930.99
+-엄지를 띄우고 약지와 소지라인에 그립을 둘 때 점수 상승함
+
+5x - VoxTargetSwitch Click Small
+72.0 / 정확도 72.19 / 상위 14%
+-팔꿈치의 높이와 팔의 가동범위에 관한 고찰좀 해볼 것 ..
+-엄지그립으로 잡으면 팔목의 가동이 줄어드는데, 이를 팔의 높이 변경으로 보완
+-손목 비중을 적게 둘수록 점수가 상승하는데,인게임이랑 관련있는지는 X
+
+5x - Floating Heads Timing 400%
+
+5x - Reflex Micro++ flick reload small
+94 /상위 19%
+5x - patTargetSwitch Small No Reload
+2250/상위 15%
+
+5x - Pokeball Frenzy Auto Small Wide
+
+5x - Pistol Strafe Gallery Small
+123309 / 상위 51% 
+-파수보다 짜증나는 시나리오;
+
+5x - centering 1
+패스
+
+5x - 1w2ts reload
+94점 / 상위 6%
+스몰이랑 비슷한 시나리오라서 익숙했는데,
+에임을 내릴떄의 손목 통증에 대해 쫌.,
+5x - Valorant Microshot Speed Small
+
+
+52점/상위 6.6% .
+명중률에 따른 점수 증감 없음
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+#한글깨짐방지
+
+Mouse :             XD3V2
+DPI :               400
+PollingRate:        1000Hz
+MousePad:           Gigantus V2
+ELMB    : OFF
+
+
+
+
+CenterLing I 180 - Max 7290
+6150
+
+Consecutive Tracking -Max 65
+49
+53
+-손목 사용 부족 .
+
+1W2t smallFlick -기록갱신 1110 상위 10.1%
+반대로 이번엔 너무 손목만 씀..원인 ㅣ뭐지
+
+1.앵커회수 까먹지말것
