@@ -98,6 +98,7 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
             O-와 같이 낮은 등, 근데 크기자체가 큰편이라
             팜으로 잡으면 크게 위화감은 없음 .
 
+
 <h2>
 마우스 - Wired<br>
 </h2>
@@ -120,3 +121,12 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
         ambidextrous
              바이퍼 미니지만 바이퍼보단 S2의 소형화에 가까움.
              유선만 아니였으면 ..ㅜㅜ 
+
+#
+    DeathAdder V2 Mini
+        Weight: 60g
+        right handed
+            작다. 너무 작음.. 피트 상태 불량이였고 오른쪽 버튼 클릭압이
+            너무 낮았음  손 작고 가격 생각하면 쓸만함
+
+  
