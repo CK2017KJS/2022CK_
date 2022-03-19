@@ -13,11 +13,11 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
 
     Mouse Sens:
         Valorant 
-            0.6/0.52
+            0.72
             ADS: 0.81
 
         CS:GO
-            1.91/1.9/2.1/2.8
+            2.29
             ADS:1
 #
 <h2>
@@ -29,10 +29,21 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
 #
 <h2>HATI-S ACE</h2>
 
-        Weight:~60g
-            바미니 무선 나오기 전까지 선택지 없음 ㅅㄱ 
-            주력마우스
+        Weight:~58g
+            바미니 무선 나오기 전까지 선택지 없음
+            2022년 3월 19일 현재 주력 마우스.
+            클릭부 앞쪽, 등 ,사이드 전부 타공 되어있음
+            그립테이프 장착 중
+#
+<h2>G Pro X</h2>
 
+        weight:59g
+        ambidextrous
+            마우스 크기 큼, 대칭에 등높은 라인형태라서
+            생각보다 처음 적응시 손목이 아픔, 적응후엔 
+            무게때문에 손목이 제일 덜아픔
+            인게임 퍼포먼스는 항상 잘 나와서 겜 안될때 자주 씀 흔히말하는 국밥마우스.
+            배터리 엄청 길음 . 
 
 #
     M4
@@ -64,14 +75,7 @@ https://drive.google.com/drive/folders/1ztO0qZ0OC8BN1mcT_y6ny_eVHq6cZUu5
             조위기어 EC3 카피. 원본 EC3에 비해서 약지 라인이 튀어나옴.
             손이 큰 사람은 거슬릴지도? 자주 안 씀.
             여분 피트 제공해줌
-#
-    G Pro X
-        weight:59g
-        ambidextrous
-            마우스 크기 큼, 대칭에 등높은 라인형태라서
-            생각보다 처음 적응시 손목이 아픔.
-            인게임 퍼포먼스는 항상 잘 나와서 겜 안될때 자주 씀.
-            배터리 엄청 길음 . 
+
 #
 
     XD3V2
